@@ -173,7 +173,7 @@ form input:focus {
 
 /*responsive moviles rules*/
 
-@media (max-height: 50vh), (max-width:100vh), (max-width: 150vh) {
+@media (max-width:100vh) {
   .body-class {
     background-color: black;
     color: white;
